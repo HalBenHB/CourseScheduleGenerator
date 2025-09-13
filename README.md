@@ -31,13 +31,13 @@ This application solves the complex and tedious task of manual course scheduling
 
 *(Here you can add your screenshots. Just replace the placeholder text with the path to your images.)*
 
-| Screen 1: Setup & Cache Management | Screen 2: Requirement Builder |
-| :---: | :---: |
-| ![Screen 1: Setup and Cache Management](path/to/your/screenshot1.png) | ![Screen 2: Requirement Builder](path/to/your/screenshot2.png) |
+|               Screen 1: Setup & Cache Management                |               Screen 2: Requirement Builder               |
+|:---------------------------------------------------------------:|:---------------------------------------------------------:|
+| ![Screen 1: Setup and Cache Management](docs/screenshots/1E.png) | ![Screen 2: Requirement Builder](docs/screenshots/2E.png) |
 
-| Screen 3: Generation & Filtering | Example Output Schedule |
-| :---: | :---: |
-| ![Screen 3: Final Configuration and Generation](path/to/your/screenshot3.png) | ![Example Output Schedule](path/to/your/screenshot4.png) |
+|                     Screen 3: Generation & Filtering                     |               Example Output Schedule               |
+|:------------------------------------------------------------------------:|:---------------------------------------------------:|
+| ![Screen 3: Final Configuration and Generation](docs/screenshots/3E.png) | ![Example Output Schedule](docs/screenshots/4E.png) |
 
 ### 📦 Installation (For End-Users)
 
@@ -149,13 +149,13 @@ Bu uygulama, elle ders programı hazırlamanın karmaşık ve sıkıcı sürecin
 
 *(Ekran görüntülerinizi buraya ekleyebilirsiniz. Yalnızca yer tutucu metinleri resimlerinizin yolu ile değiştirin.)*
 
-| Ekran 1: Kurulum ve Önbellek Yönetimi | Ekran 2: Gereksinim Oluşturucu |
-| :---: | :---: |
-| ![Ekran 1: Kurulum ve Önbellek Yönetimi](path/to/your/screenshot1.png) | ![Ekran 2: Gereksinim Oluşturucu](path/to/your/screenshot2.png) |
+|               Ekran 1: Kurulum ve Önbellek Yönetimi               |               Ekran 2: Gereksinim Oluşturucu               |
+|:-----------------------------------------------------------------:|:----------------------------------------------------------:|
+| ![Ekran 1: Kurulum ve Önbellek Yönetimi](docs/screenshots/1T.png) | ![Ekran 2: Gereksinim Oluşturucu](docs/screenshots/2T.png) |
 
-| Ekran 3: Program Oluşturma ve Filtreleme | Örnek Çıktı Tablosu |
-| :---: | :---: |
-| ![Ekran 3: Son Yapılandırma ve Program Oluşturma](path/to/your/screenshot3.png) | ![Örnek Çıktı Tablosu](path/to/your/screenshot4.png) |
+|                  Ekran 3: Program Oluşturma ve Filtreleme                  |               Örnek Çıktı Tablosu               |
+|:--------------------------------------------------------------------------:|:-----------------------------------------------:|
+| ![Ekran 3: Son Yapılandırma ve Program Oluşturma](docs/screenshots/3T.png) | ![Örnek Çıktı Tablosu](docs/screenshots/4T.png) |
 
 ### 📦 Kurulum (Son Kullanıcılar İçin)
 
