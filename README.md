@@ -43,7 +43,7 @@ This application solves the complex and tedious task of manual course scheduling
 
 You do not need Python or any other tools installed to run this application.
 
-1.  Go to the [**GitHub Releases**](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) page for this project.
+1.  Go to the [**GitHub Releases**](https://github.com/HalBenHB/CourseScheduleGenerator/releases/tag/v2.1-gui-stable) page for this project.
 2.  Download the correct `.zip` file for your operating system (`Windows` or `macOS`).
 
 #### For Windows:
@@ -161,7 +161,7 @@ Bu uygulama, elle ders programı hazırlamanın karmaşık ve sıkıcı sürecin
 
 Bu uygulamayı çalıştırmak için bilgisayarınızda Python veya başka bir aracın yüklü olmasına gerek yoktur.
 
-1.  Projenin [**GitHub Releases**](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) sayfasına gidin.
+1.  Projenin [**GitHub Releases**](https://github.com/HalBenHB/CourseScheduleGenerator/releases/tag/v2.1-gui-stable) sayfasına gidin.
 2.  İşletim sisteminize uygun `.zip` dosyasını indirin (`Windows` veya `macOS`).
 
 #### Windows Kullanıcıları İçin:
