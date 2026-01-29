@@ -43,7 +43,7 @@ This application solves the complex and tedious task of manual course scheduling
 
 You do not need Python or any other tools installed to run this application.
 
-1.  Go to the [**GitHub Releases**](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) page for this project.
+1.  Go to the [**GitHub Releases**](https://github.com/HalBenHB/CourseScheduleGenerator/releases/tag/v2.1-gui-stable) page for this project.
 2.  Download the correct `.zip` file for your operating system (`Windows` or `macOS`).
 
 #### For Windows:
@@ -52,9 +52,15 @@ You do not need Python or any other tools installed to run this application.
 3.  Windows may show a "Windows Protected your PC" security warning. This is normal. Click **"More info"**, then click **"Run anyway"**.
 
 #### For macOS:
-1.  Unzip the downloaded file. This will give you the `Course Schedule Generator.app`.
-2.  Drag **`Course Schedule Generator.app`** into your **Applications** folder.
+1.  **Unzip** the downloaded file. This will give you the `Course Program Generator.app`.
+2.  Drag **`Course Program Generator.app`** into your **Applications** folder.
 3.  The first time you run it, you may need to **right-click** the app icon and select **"Open"** to approve the security exception.
+    1. If you see an error, choose **Apple menu** > **System Settings**, then click **Privacy & Security** in the sidebar. (You may need to scroll down.)
+    2. Go to **Security**, then click **Open**.
+    3. Click **Open Anyway**.
+    5. This button is available for about an hour after you try to open the app.
+    6. Enter your login password, then click OK.
+    7. **Right-click** the app icon and select **"Open"**
 
 ### 🚀 How to Use
 
@@ -161,7 +167,7 @@ Bu uygulama, elle ders programı hazırlamanın karmaşık ve sıkıcı sürecin
 
 Bu uygulamayı çalıştırmak için bilgisayarınızda Python veya başka bir aracın yüklü olmasına gerek yoktur.
 
-1.  Projenin [**GitHub Releases**](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) sayfasına gidin.
+1.  Projenin [**GitHub Releases**](https://github.com/HalBenHB/CourseScheduleGenerator/releases/tag/v2.1-gui-stable) sayfasına gidin.
 2.  İşletim sisteminize uygun `.zip` dosyasını indirin (`Windows` veya `macOS`).
 
 #### Windows Kullanıcıları İçin:
