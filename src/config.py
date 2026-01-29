@@ -37,7 +37,7 @@ class Config:
 
         self.input = {
             "courses": {
-                "basename": kwargs.get('courses_basename', "course_offered_2526S.xls"),
+                "basename": kwargs.get('courses_basename', "course_offered_2526F.xls"),
                 "filepath": None
             },
             "requirements": {
