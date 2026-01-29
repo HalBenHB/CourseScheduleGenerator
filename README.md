@@ -4,6 +4,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+---
+### Warning
+
+If you are going to download the [latest release](https://github.com/HalBenHB/CourseScheduleGenerator/releases/tag/v2.1-gui-stable), you need to download [the lessons for the **2025-2026 Fall** semester here](https://github.com/HalBenHB/CourseScheduleGenerator/blob/gui-version/data/input/course_offered_2526F.xls) and upload the downloaded file to the application on the first screen of the application.
+
+This is not necessary if you are going to pull the repository and run it from the source code.
+
+---
 An intelligent desktop application designed to automate the creation of conflict-free Özyeğin University course schedules through an intuitive, bilingual Graphical User Interface (GUI).
 
 ---
@@ -134,6 +142,15 @@ This project is licensed under the MIT License.
 
 <a name="türkçe"></a>
 ## 🇹🇷 Ders Programı Oluşturucu (Türkçe)
+
+---
+
+### Uyarı
+[Son yayınlanmış sürümü](https://github.com/HalBenHB/CourseScheduleGenerator/releases/tag/v2.1-gui-stable) indirecekseniz, [buradan **2025-2026 Bahar döneminin derslerini**](https://github.com/HalBenHB/CourseScheduleGenerator/blob/gui-version/data/input/course_offered_2526F.xls) indirip uygulamanın ilk ekranında indirdiğiniz dosyayı uygulama yüklemeniz gerekiyor.
+
+Eğer ki repository'yi çekip kaynak koddan çalıştıracaksanız buna gerek yok.
+
+---
 
 Bu uygulama, elle ders programı hazırlamanın karmaşık ve sıkıcı sürecini otomatize eder. Özyeğin Üniversitesi'nin açtığı tüm derslerin bir listesini ve öğrenci tarafından özelleştirilebilen gereksinimleri alarak, olası tüm geçerli ve çakışmasız programları oluşturmak için güçlü bir geri izleme (backtracking) algoritması kullanır.
 
